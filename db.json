@@ -1,0 +1,23 @@
+{
+  "employee": [
+    {
+      "id": 5,
+      "name": "slimen",
+      "email": "slimen@in.com",
+      "phone": "908908767"
+    },
+    {
+      "name": "zaineb",
+      "email": "zaine@dsi.com",
+      "phone": "54646646",
+      "active": true,
+      "id": 6
+    },
+    {
+      "id": 17,
+      "name": "fjfj",
+      "email": "rezgui@dqhf.com",
+      "phone": "22998646"
+    }
+  ]
+}
